@@ -1,16 +1,66 @@
-## Hi there 👋
+# 👋 Hi, I'm Kishan Deep Lamichhane
+🎓 BCS Student | Aspiring AWS Cloud & Security Professional  
 
-<!--
-**Kishandeeplamichhane/Kishandeeplamichhane** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🛠 Top Skills & Technologies
+- **Cloud & DevOps:** AWS (EC2, S3, VPC, IAM), Terraform, Docker  
+- **Networking Fundamentals:** VLANs, Routing, Switching, Packet Tracer  
+- **Security:** Kali Linux Enthusiast  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Favorite Projects
+### 1️⃣ 3-Tier Architecture in AWS
+A hands-on project building a scalable and secure 3-tier architecture in AWS, exploring VPCs, subnets, EC2 instances and Database In Multi AZs.
+
+### 2️⃣ Cloud Security Labs
+Learning cloud security best practices, IAM policies, and secure deployment methods.
+
+---
+
+## 👨‍💻 About Me
+I'm passionate about **cloud computing, AWS, and cybersecurity**. I enjoy exploring new cloud solutions, learning advanced services, and building **real-world projects** that strengthen my skills.  
+
+I also love **turning cloud ideas into practical working solutions** and sharing my learning journey on GitHub.  
+
+---
+
+## 🌐 Connect With Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kishan-deep-lamichhane-4179782b1/)  
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kripeshlmcn40@gmail.com)  
+
+✨ *“Stay curious, keep learning, and always challenge yourself!”*
+
+---
+
+## 🚀 Fun Animation
+<p align="center">
+  <img src="https://media.giphy.com/media/3oKIPwoeGErMmaI43C/giphy.gif" width="500"/>
+</p>
+*Just like this rocket, I keep launching projects into the cloud! ☁️🚀*
+
+---
+
+## 💻 Tech Stack
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) 
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) 
+![Linux](https://img.shields.io/badge/Linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black) 
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) 
+![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white) 
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kishandeeplamichhane&theme=dark&hide_border=true&include_all_commits=true&count_private=false)  
+![Streak Stats](https://nirzak-streak-stats.vercel.app/?user=Kishandeeplamichhane&theme=dark&hide_border=true)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Kishandeeplamichhane&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
+
+---
+
+## 🔝 Top Contributed Repo
+![Top Repos](https://github-contributor-stats.vercel.app/api?username=Kishandeeplamichhane&limit=5&theme=dark&combine_all_yearly_contributions=true)  
+
+---
+
