@@ -37,12 +37,12 @@ I also love **turning cloud ideas into practical working solutions** and sharing
 ---
 
 ## 💻 Tech Stack
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) 
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) 
 ![Linux](https://img.shields.io/badge/Linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black) 
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) 
 ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white) 
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
 ---
 
@@ -55,8 +55,7 @@ I also love **turning cloud ideas into practical working solutions** and sharing
 ---
 
 ## 🔝 Top Contributed Repo
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kishandeeplamichhane&layout=compact&theme=dark)](https://github.com/Kishandeeplamichhane)
-
+[![Top Repos](https://github-readme-stats.vercel.app/api/top-langs/?username=Kishandeeplamichhane&layout=compact&theme=dark)](https://github.com/Kishandeeplamichhane)
 
 ---
 
