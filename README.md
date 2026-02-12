@@ -34,14 +34,6 @@ I also love **turning cloud ideas into practical working solutions** and sharing
 
 ---
 
-## 🚀 Fun Animation
-<p align="center">
-  <img src="https://media.giphy.com/media/3oKIPwoeGErMmaI43C/giphy.gif" width="500"/>
-</p>
-*Just like this rocket, I keep launching projects into the cloud! ☁️🚀*
-
----
-
 ## 💻 Tech Stack
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) 
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) 
