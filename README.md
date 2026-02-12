@@ -55,7 +55,7 @@ I also love **turning cloud ideas into practical working solutions** and sharing
 ---
 
 ## 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Kishandeeplamichhane&limit=5&theme=dark)
+![](https://github-contributor-stats.vercel.app/api?username=Kishandeeplamichhane&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 
 ---
