@@ -12,6 +12,7 @@
 
 ## 🚀 Favorite Projects
 ### 1️⃣ 3-Tier Architecture in AWS
+● https://github.com/Kishandeeplamichhane/AWS-3Tier-Architecture.git
 A hands-on project building a scalable and secure 3-tier architecture in AWS, exploring VPCs, subnets, EC2 instances and Database In Multi AZs.
 
 ### 2️⃣ Cloud Security Labs
@@ -45,14 +46,15 @@ I also love **turning cloud ideas into practical working solutions** and sharing
 ---
 
 ## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kishandeeplamichhane&theme=dark&hide_border=true&include_all_commits=true&count_private=false)  
-![Streak Stats](https://nirzak-streak-stats.vercel.app/?user=Kishandeeplamichhane&theme=dark&hide_border=true)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Kishandeeplamichhane&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=Kishandeeplamichhane&theme=dark&hide_border=true&include_all_commits=true&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Kishandeeplamichhane&theme=dark&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Kishandeeplamichhane&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
+
 
 ---
 
 ## 🔝 Top Contributed Repo
-![Top Repos](https://github-contributor-stats.vercel.app/api?username=Kishandeeplamichhane&limit=5&theme=dark&combine_all_yearly_contributions=true)  
+![](https://github-contributor-stats.vercel.app/api?username=Kishandeeplamichhane&limit=5&theme=dark&combine_all_yearly_contributions=true)  
 
 ---
 
