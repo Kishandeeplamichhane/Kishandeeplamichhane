@@ -13,6 +13,7 @@
 ## 🚀 Favorite Projects
 ### 1️⃣ 3-Tier Architecture in AWS
 ● https://github.com/Kishandeeplamichhane/AWS-3Tier-Architecture.git
+
 A hands-on project building a scalable and secure 3-tier architecture in AWS, exploring VPCs, subnets, EC2 instances and Database In Multi AZs.
 
 ### 2️⃣ Cloud Security Labs
@@ -54,7 +55,8 @@ I also love **turning cloud ideas into practical working solutions** and sharing
 ---
 
 ## 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Kishandeeplamichhane&limit=5&theme=dark&combine_all_yearly_contributions=true)  
+![](https://github-contributor-stats.vercel.app/api?username=Kishandeeplamichhane&limit=5&theme=dark)
+
 
 ---
 
